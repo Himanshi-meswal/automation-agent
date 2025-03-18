@@ -1,0 +1,7 @@
+flask
+cohere
+requests
+pydantic
+pillow
+numpy
+python-dotenv
